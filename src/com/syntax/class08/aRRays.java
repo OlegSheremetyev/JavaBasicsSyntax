@@ -13,6 +13,9 @@ public class aRRays {
 		for (int i=0;i<disney.length;i++)
 		{
 		System.out.print(disney[i]+" ");}
+		
+		
+		
 for (String character:disney) {System.out.println(character+"");
 
 	}
